@@ -6,10 +6,6 @@
 
 import java.util.Date;
 
-/**
- *
- * @author loiane
- */
 public class LivroDeBiblioteca {
     
     String nome;

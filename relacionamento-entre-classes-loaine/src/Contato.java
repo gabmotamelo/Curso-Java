@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author loiane
- */
 public class Contato {
     
     private String nome;

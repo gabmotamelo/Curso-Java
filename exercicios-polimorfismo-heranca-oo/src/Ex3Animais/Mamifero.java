@@ -5,10 +5,6 @@
  */
 package Ex3Animais;
 
-/**
- *
- * @author loiane
- */
 public class Mamifero extends Animal{
 
     private String alimento;

@@ -5,10 +5,6 @@
  */
 package Ex2ImpostoDeRenda;
 
-/**
- *
- * @author loiane
- */
 public class PessoaJuridica extends Contribuinte {
     
     private String cnpj;

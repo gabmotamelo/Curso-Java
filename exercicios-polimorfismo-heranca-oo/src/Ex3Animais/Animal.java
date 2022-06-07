@@ -5,10 +5,6 @@
  */
 package Ex3Animais;
 
-/**
- *
- * @author loiane
- */
 public class Animal {
     
     private String nome;

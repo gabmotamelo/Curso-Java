@@ -8,10 +8,6 @@ package Ex1ContaBancaria;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- *
- * @author loiane
- */
 public class ContaPoupanca extends ContaBancaria {
     
     private int diaRendimento;

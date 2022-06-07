@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author loiane
- */
 public class Exer05 {
     
     public static void main(String[] args){

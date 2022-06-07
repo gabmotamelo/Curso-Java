@@ -5,10 +5,6 @@
  */
 package Ex1ContaBancaria;
 
-/**
- *
- * @author loiane
- */
 public class Teste {
     
     public static void main(String[] args) {
