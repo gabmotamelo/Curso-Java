@@ -5,10 +5,6 @@
  */
 package Ex2ImpostoDeRenda;
 
-/**
- *
- * @author loiane
- */
 public class PessoaFisica extends Contribuinte {
     
     private String cpf;

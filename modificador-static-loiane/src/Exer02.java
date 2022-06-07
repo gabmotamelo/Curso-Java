@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 
-
-/**
- *
- * @author loiane
- */
 public class Exer02 {
     
     

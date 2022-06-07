@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author loiane
- */
 public class Calculadora {
     
     public static int fibonacci(int num){

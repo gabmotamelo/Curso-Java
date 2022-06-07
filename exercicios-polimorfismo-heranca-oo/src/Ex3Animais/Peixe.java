@@ -5,10 +5,6 @@
  */
 package Ex3Animais;
 
-/**
- *
- * @author loiane
- */
 public class Peixe extends Animal{
 
     private String caracteristicas;

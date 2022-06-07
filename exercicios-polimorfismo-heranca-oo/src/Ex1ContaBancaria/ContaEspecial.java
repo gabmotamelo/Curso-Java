@@ -5,10 +5,6 @@
  */
 package Ex1ContaBancaria;
 
-/**
- *
- * @author loiane
- */
 public class ContaEspecial extends ContaBancaria {
     
     private double limite;

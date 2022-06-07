@@ -5,10 +5,6 @@
  */
 package Ex2ImpostoDeRenda;
 
-/**
- *
- * @author loiane
- */
 public abstract class Contribuinte {
     
     private String nome;

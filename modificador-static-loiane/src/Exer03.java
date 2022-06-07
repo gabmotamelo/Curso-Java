@@ -7,10 +7,6 @@
 
 import java.util.Scanner;
 
-/**
- *
- * @author loiane
- */
 public class Exer03 {
     
     public static void main(String[] args) {
