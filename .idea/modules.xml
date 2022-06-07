@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EXERCÍCIOS JAVA.iml" filepath="$PROJECT_DIR$/.idea/EXERCÍCIOS JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-object-loiane/class-object-loiane.iml" filepath="$PROJECT_DIR$/class-object-loiane/class-object-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classe-metodos-loiane/classe-metodos-loiane.iml" filepath="$PROJECT_DIR$/classe-metodos-loiane/classe-metodos-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-abstract-loaine/classes-abstract-loaine.iml" filepath="$PROJECT_DIR$/classes-abstract-loaine/classes-abstract-loaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-polimorfismo-heranca-oo/exercicios-polimorfismo-heranca-oo.iml" filepath="$PROJECT_DIR$/exercicios-polimorfismo-heranca-oo/exercicios-polimorfismo-heranca-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getter-setter-methodsOverload-loiane/getter-setter-methodsOverload-loiane.iml" filepath="$PROJECT_DIR$/getter-setter-methodsOverload-loiane/getter-setter-methodsOverload-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca-modificadores-acesso-protected/heranca-modificadores-acesso-protected.iml" filepath="$PROJECT_DIR$/heranca-modificadores-acesso-protected/heranca-modificadores-acesso-protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrizes-loiane/matrizes-loiane.iml" filepath="$PROJECT_DIR$/matrizes-loiane/matrizes-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos-recursivos-loiane/metodos-recursivos-loiane.iml" filepath="$PROJECT_DIR$/metodos-recursivos-loiane/metodos-recursivos-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modificador-static-loiane/modificador-static-loiane.iml" filepath="$PROJECT_DIR$/modificador-static-loiane/modificador-static-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto/orientacao-objeto.iml" filepath="$PROJECT_DIR$/orientacao-objeto/orientacao-objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto-heranca-loiane/orientacao-objeto-heranca-loiane.iml" filepath="$PROJECT_DIR$/orientacao-objeto-heranca-loiane/orientacao-objeto-heranca-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objeto-loiane/orientacao-objeto-loiane.iml" filepath="$PROJECT_DIR$/orientacao-objeto-loiane/orientacao-objeto-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objetos-final(constante)/orientacao-objetos-final(constante).iml" filepath="$PROJECT_DIR$/orientacao-objetos-final(constante)/orientacao-objetos-final(constante).iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objetos-super/orientacao-objetos-super.iml" filepath="$PROJECT_DIR$/orientacao-objetos-super/orientacao-objetos-super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo-loiane/polimorfismo-loiane.iml" filepath="$PROJECT_DIR$/polimorfismo-loiane/polimorfismo-loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relacionamento-entre-classes-loaine/relacionamento-entre-classes-loaine.iml" filepath="$PROJECT_DIR$/relacionamento-entre-classes-loaine/relacionamento-entre-classes-loaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tratamento-de-excecoes/tratamento-de-excecoes.iml" filepath="$PROJECT_DIR$/tratamento-de-excecoes/tratamento-de-excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores-loiane/vetores-loiane.iml" filepath="$PROJECT_DIR$/vetores-loiane/vetores-loiane.iml" />
+    </modules>
+  </component>
+</project>
