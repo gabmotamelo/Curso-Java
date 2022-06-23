@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/EXERCÍCIOS JAVA.iml" filepath="$PROJECT_DIR$/.idea/EXERCÍCIOS JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algoritmo-estrutura-dados-loiane/algoritmo-estrutura-dados-loiane.iml" filepath="$PROJECT_DIR$/algoritmo-estrutura-dados-loiane/algoritmo-estrutura-dados-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/class-object-loiane/class-object-loiane.iml" filepath="$PROJECT_DIR$/class-object-loiane/class-object-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/classe-metodos-loiane/classe-metodos-loiane.iml" filepath="$PROJECT_DIR$/classe-metodos-loiane/classe-metodos-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes-abstract-loaine/classes-abstract-loaine.iml" filepath="$PROJECT_DIR$/classes-abstract-loaine/classes-abstract-loaine.iml" />
@@ -16,10 +17,12 @@
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto-heranca-loiane/orientacao-objeto-heranca-loiane.iml" filepath="$PROJECT_DIR$/orientacao-objeto-heranca-loiane/orientacao-objeto-heranca-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objeto-loiane/orientacao-objeto-loiane.iml" filepath="$PROJECT_DIR$/orientacao-objeto-loiane/orientacao-objeto-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objetos-final(constante)/orientacao-objetos-final(constante).iml" filepath="$PROJECT_DIR$/orientacao-objetos-final(constante)/orientacao-objetos-final(constante).iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacao-objetos-interfaces/orientacao-objetos-interfaces.iml" filepath="$PROJECT_DIR$/orientacao-objetos-interfaces/orientacao-objetos-interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/orientacao-objetos-super/orientacao-objetos-super.iml" filepath="$PROJECT_DIR$/orientacao-objetos-super/orientacao-objetos-super.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo-loiane/polimorfismo-loiane.iml" filepath="$PROJECT_DIR$/polimorfismo-loiane/polimorfismo-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/relacionamento-entre-classes-loaine/relacionamento-entre-classes-loaine.iml" filepath="$PROJECT_DIR$/relacionamento-entre-classes-loaine/relacionamento-entre-classes-loaine.iml" />
       <module fileurl="file://$PROJECT_DIR$/tratamento-de-excecoes/tratamento-de-excecoes.iml" filepath="$PROJECT_DIR$/tratamento-de-excecoes/tratamento-de-excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tratando-exceptions-loiane/tratando-exceptions-loiane.iml" filepath="$PROJECT_DIR$/tratando-exceptions-loiane/tratando-exceptions-loiane.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetores-loiane/vetores-loiane.iml" filepath="$PROJECT_DIR$/vetores-loiane/vetores-loiane.iml" />
     </modules>
   </component>
